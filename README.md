@@ -1,36 +1,45 @@
 # Hi, I'm Mohamed Asif 👋
 
-### Aspiring Java Backend Developer
+### Aspiring Java Developer | Java • JDBC • MySQL
 
-I'm passionate about Java development and building practical applications. I'm currently strengthening my backend development skills and learning how to build reliable, database-driven applications.
+I'm an aspiring Java Developer focused on building practical applications and strengthening my backend development skills.
 
-- ☕ Working with **Core Java**
-- 🗄️ Practicing **MySQL and JDBC**
-- 🛠️ Using **Git, GitHub, and IntelliJ IDEA**
-- 🚀 Improving my skills through hands-on projects
-- 🎯 Looking for opportunities to grow as a **Java Developer**
+- 🌱 Currently learning Java and backend development
+- 💻 Building projects using Java, JDBC, and MySQL
+- 🎯 Working toward a Java Developer opportunity
+- 📍 Based in India
 
-### 🧰 Technologies & Tools
+## 🛠️ Technical Skills
 
-- **Language:** Java
-- **Database:** MySQL , MongoDB
+- **Programming:** Java
+- **Database:** MySQL, SQL
 - **Database Connectivity:** JDBC
-- **Tools:** IntelliJ IDEA, Git, GitHub
 - **Build Tool:** Maven
+- **Tools:** Git, GitHub, IntelliJ IDEA
 
-### 📂 Projects
+## 🚀 Projects
 
-**Number Guessing Game**
-- A Java practice project focused on basic programming logic and user interaction.
-- [View my repositories](https://github.com/MD-ASIF-09?tab=repositories)
+### 1. Student Management System
 
-More Java backend projects will be added as I continue learning.
+A Java console application for managing student records with MySQL database connectivity.
 
-### 🤝 Connect with Me
+**Technologies:** Java, JDBC, MySQL, Maven
 
-- [LinkedIn](https://www.linkedin.com/in/mohamed-asif-p-m-8823052aa/)
-- [GitHub](https://github.com/MD-ASIF-09)
+[View Project](https://github.com/MD-ASIF-09/Student-Management-System)
+
+### 2. Number Guessing Game
+
+A beginner-friendly Java console game demonstrating random number generation, loops, and conditional logic.
+
+**Technology:** Java
+
+[View Project](https://github.com/MD-ASIF-09/practice)
+
+## 📫 Connect With Me
+
+- **GitHub:** [MD-ASIF-09](https://github.com/MD-ASIF-09)
+- **LinkedIn:** [Connect with me](https://www.linkedin.com/in/mohamed-asif-p-m-8823052aa/)
 
 ---
 
-*Always learning, building, and improving.*
+*Always learning, building, and improving my Java development skills.*
