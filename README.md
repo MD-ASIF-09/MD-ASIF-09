@@ -1,16 +1,36 @@
-## Hi there 👋
+# Hi, I'm Mohamed Asif 👋
 
-<!--
-**MD-ASIF-09/MD-ASIF-09** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Aspiring Java Backend Developer
 
-Here are some ideas to get you started:
+I'm passionate about Java development and building practical applications. I'm currently strengthening my backend development skills and learning how to build reliable, database-driven applications.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- ☕ Working with **Core Java**
+- 🗄️ Practicing **MySQL and JDBC**
+- 🛠️ Using **Git, GitHub, and IntelliJ IDEA**
+- 🚀 Improving my skills through hands-on projects
+- 🎯 Looking for opportunities to grow as a **Java Developer**
+
+### 🧰 Technologies & Tools
+
+- **Language:** Java
+- **Database:** MySQL , MongoDB
+- **Database Connectivity:** JDBC
+- **Tools:** IntelliJ IDEA, Git, GitHub
+- **Build Tool:** Maven
+
+### 📂 Projects
+
+**Number Guessing Game**
+- A Java practice project focused on basic programming logic and user interaction.
+- [View my repositories](https://github.com/MD-ASIF-09?tab=repositories)
+
+More Java backend projects will be added as I continue learning.
+
+### 🤝 Connect with Me
+
+- [LinkedIn](https://www.linkedin.com/in/mohamed-asif-p-m-8823052aa/)
+- [GitHub](https://github.com/MD-ASIF-09)
+
+---
+
+*Always learning, building, and improving.*
